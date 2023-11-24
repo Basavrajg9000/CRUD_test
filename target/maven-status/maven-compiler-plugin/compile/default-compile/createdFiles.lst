@@ -1,0 +1,6 @@
+com\crud\springboot\SpringbootRestfulWebservicesApplication.class
+com\crud\springboot\service\UserService.class
+com\crud\springboot\service\impl\UserServiceImpl.class
+com\crud\springboot\Controller\UserController.class
+com\crud\springboot\repository\UserRepository.class
+main\java\com\crud\springboot\entity\User.class
